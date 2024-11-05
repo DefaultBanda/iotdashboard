@@ -54,4 +54,7 @@ const String apiKey = "YOUR_API_KEY";
 
 Upload the code to your ESP32 :)
 
+![image](https://github.com/user-attachments/assets/5cda70b3-1732-4d57-8c9d-5e6aa07f98cd)
+
+
 
