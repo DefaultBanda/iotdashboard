@@ -32,8 +32,21 @@ This project is a simple weather and clock display built with an **ESP32** and a
 | T_DO        | GPIO 19     |
 | SD_CS       | GPIO 12     |
 
-## Getting Started
+## Setup Instructions
+Open the project in the Arduino IDE.
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/ESP32_Weather_Clock.git
+Install the required libraries:
+
+- Adafruit GFX Library
+- Adafruit ILI9341
+- ArduinoJson
+- NTPClient (already included with ESP32 board setup)
+- Update WiFi credentials and OpenWeatherMap API key in the code:
+## Update These
+const char* ssid = "YOUR_SSID";
+const char* password = "YOUR_PASSWORD";
+const String apiKey = "YOUR_API_KEY";
+
+Upload the code to your ESP32 :)
+
+
