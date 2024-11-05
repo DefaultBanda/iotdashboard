@@ -15,6 +15,8 @@ This project is a simple weather and clock display built with an **ESP32** and a
 
   ![IMG_3778](https://github.com/user-attachments/assets/48d1be22-9b86-4d03-b958-619a9aeec41e)
 
+https://github.com/user-attachments/assets/9a4f76b3-8ce7-4ecb-ad0f-aa5f355328e8
+
 
 ## Wiring
 
