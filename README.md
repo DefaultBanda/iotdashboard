@@ -13,6 +13,9 @@ This project is a simple weather and clock display built with an **ESP32** and a
 - 2.8" ILI9341 TFT Display (with SPI interface)
 - Internet connection (WiFi)
 
+  ![IMG_3778](https://github.com/user-attachments/assets/48d1be22-9b86-4d03-b958-619a9aeec41e)
+
+
 ## Wiring
 
 | ILI9341 Pin | ESP32 Pin   |
